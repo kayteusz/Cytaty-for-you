@@ -1,8 +1,8 @@
 // script.js
 const quotes = [
     "Perfekcję osiąga się nie wtedy, gdy nie ma już czego dodać, tylko wtedy, gdy nie ma już czego odjąć.",
-    "Każdy dzień to nowa szansa, aby coś zmienić.",
-    "Marzenia nie mają daty ważności.",
+    "Magia, której szukasz, jest w pracy, której unikasz.",
+    "Jak mi się nie chce, to znaczy, że warto.",
     "Bądź zmianą, którą pragniesz ujrzeć w świecie.",
     "Siła jest w tym, że się nie poddajesz."
 ];
