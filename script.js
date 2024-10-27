@@ -1,6 +1,6 @@
 // script.js
 const quotes = [
-    "Nie porażka, lecz rezygnacja jest prawdziwym wrogiem sukcesu.",
+    "Perfekcję osiąga się nie wtedy, gdy nie ma już czego dodać, tylko wtedy, gdy nie ma już czego odjąć.",
     "Każdy dzień to nowa szansa, aby coś zmienić.",
     "Marzenia nie mają daty ważności.",
     "Bądź zmianą, którą pragniesz ujrzeć w świecie.",
